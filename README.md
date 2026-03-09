@@ -6,7 +6,7 @@ I’ve been working as a Software Machine Learning Engineer at CERN, building en
 
 * 🌍 I'm based in Prévessin-Moëns, France
 * ✉️ You can contact me at [presmanes3@gmail.com](mailto:presmanes3@gmail.com)
-* 🚀 I'm currently working on [ConcepTracker](http://github.com/Presmanes3/ConcepTracker)
+* 🚀 I'm currently working on [ConcepTracker](http://github.com/Presmanes3/queryforge)
 * 👥 I'm looking to collaborate on Machine Learning Projects
 
 ### Skills & Tools
